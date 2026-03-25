@@ -20,6 +20,6 @@ HTTPS를 HTTP로 변경하여 패킷이 보이도록 하였다.
 ### 5. 상태 코드 분석  
 <img width="1076" height="257" alt="image" src="https://github.com/user-attachments/assets/aa2cbacd-b71c-41c2-a2ec-492375b83240" />
 - 2xx: 정상 응답 (200 OK) 209개<br>
-- 3xx, 4xx, 5xx: 오류 없음  <br><br>
+- 3xx, 4xx, 5xx: 오류 없음 <br><br>
 
 또한 HTTP는 포트 80을 사용하는 것을 확인하였다.
